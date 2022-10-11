@@ -1,4 +1,4 @@
-Avatar
+Avatar- Made with pure CSS
 
 [Click Me](https://avatar-girl.netlify.app)
 
